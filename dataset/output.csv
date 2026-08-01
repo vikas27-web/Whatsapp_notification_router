@@ -1,0 +1,111 @@
+message_id,action,message_type,reason,confidence,evidence_message_ids
+msg_023,notify,business_update,Transactional alert from business.,0.94,message_0243
+msg_091,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,message_0238
+msg_090,digest,unknown,Direct personal message from unfamiliar contact.,0.91,none
+msg_048,notify,urgent,Notified time-sensitive operational notice from society group admin.,0.95,message_0152
+msg_040,mute,greeting,Muted forwarded greeting message with high forward count.,0.92,message_0136
+msg_075,digest,business_update,Status or transactional update from business account.,0.91,message_0206
+msg_005,digest,promotion,Marketplace promotional message.,0.92,message_0095
+msg_104,notify,urgent,Direct personal message with time-sensitive pickup or request.,0.92,message_0115
+msg_069,mute,greeting,Muted forwarded greeting message with high forward count.,0.92,message_0194
+msg_107,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,message_0214
+msg_070,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,message_0214
+msg_003,digest,business_update,Status or transactional update from business account.,0.91,message_0031;message_0400
+msg_099,notify,personal,Direct personal message from active contact.,0.93,message_0055
+msg_008,digest,business_update,Status or transactional update from business account.,0.91,message_0296
+msg_092,mute,promotion,Promotional advertisement from business account.,0.92,none
+msg_060,digest,personal,Personal discussion in social group.,0.91,message_0404;message_0284
+msg_004,notify,event,Healthcare appointment schedule update.,0.94,message_0245;message_0005
+msg_030,mute,promotion,Muted message in user-muted group.,0.92,message_0115
+msg_045,digest,event,Routine update in society group.,0.91,message_0146
+msg_052,mute,scam,Muted due to official domain mismatch (talabat.com vs talabat-refund.com) on payment/credential request.,1.0,message_0208
+msg_009,mute,event,Muted message in user-muted group.,0.92,message_0074
+msg_071,notify,personal,Personal family communication.,0.93,message_0197
+msg_016,digest,promotion,Marketplace promotional message.,0.92,message_0087
+msg_065,digest,promotion,Promotional advertisement from business account.,0.92,message_0261
+msg_038,mute,forward,Muted forwarded advice/information spam.,0.92,message_0131
+msg_086,digest,business_update,Status or transactional update from business account.,0.91,message_0222
+msg_014,mute,promotion,Promotional advertisement from business account.,0.92,message_0017;message_0258
+msg_094,mute,promotion,Promotional advertisement from business account.,0.92,none
+msg_029,mute,forward,Muted forwarded advice/information spam.,0.92,message_0095
+msg_105,mute,forward,Muted forwarded advice/information spam.,0.92,message_0233
+msg_002,notify,personal,Notified because the user was directly @-mentioned.,0.93,message_0170
+msg_010,digest,business_update,Status or transactional update from business account.,0.91,message_0011;message_0242
+msg_078,mute,forward,Muted forwarded advice/information spam.,0.92,message_0212
+msg_013,digest,personal,Personal discussion in social group.,0.91,message_0082
+msg_018,mute,forward,Muted forwarded advice/information spam.,0.92,message_0092
+msg_044,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,message_0036
+msg_032,digest,personal,Personal discussion in social group.,0.91,message_0285
+msg_106,notify,personal,Direct personal message from active contact.,0.93,message_0234;message_0376
+msg_006,notify,urgent,Notified time-sensitive operational notice from society group admin.,0.95,message_0271
+msg_109,notify,urgent,Notified time-sensitive operational notice from society group admin.,0.95,message_0152
+msg_108,mute,scam,Muted due to official domain mismatch (chase.com vs chase-secure-alert.com) on payment/credential request.,1.0,message_0094
+msg_019,mute,scam,Muted due to official domain mismatch (chase.com vs chase-secure-alert.com) on payment/credential request.,1.0,message_0094
+msg_088,mute,event,Muted message in user-muted group.,0.92,message_0224
+msg_056,notify,urgent,Notified because the user was directly @-mentioned.,0.93,message_0078
+msg_027,digest,promotion,Promotional advertisement from business account.,0.92,message_0272;message_0033
+msg_050,digest,business_update,Status or transactional update from business account.,0.91,message_0279
+msg_083,notify,urgent,Notified coworker discussion.,0.93,message_0219
+msg_063,digest,personal,Personal discussion in social group.,0.91,message_0182
+msg_033,digest,greeting,Family greeting sent to digest.,0.92,message_0122
+msg_061,mute,greeting,Muted forwarded greeting message with high forward count.,0.92,message_0194
+msg_020,digest,promotion,Marketplace promotional message.,0.92,message_0095
+msg_017,mute,event,Muted message in user-muted group.,0.92,message_0090
+msg_058,mute,forward,Muted forwarded advice/information spam.,0.92,message_0078
+msg_026,mute,scam,Muted due to official domain mismatch (amazon.in vs amazonpay-delivery.in) on payment/credential request.,1.0,message_0032
+msg_047,notify,urgent,Notified time-sensitive operational notice from society group admin.,0.95,message_0152
+msg_046,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,message_0148
+msg_042,notify,urgent,Notified time-sensitive operational notice from society group admin.,0.95,message_0140
+msg_079,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,message_0214
+msg_098,notify,urgent,Direct personal message with time-critical request.,0.94,message_0054
+msg_037,notify,event,Announcement from society group admin.,0.92,message_0271
+msg_007,digest,event,Notice from society group admin.,0.92,message_0070
+msg_085,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,message_0221
+msg_001,notify,urgent,Notified time-sensitive operational notice from society group admin.,0.95,message_0057
+msg_021,notify,event,Announcement from society group admin.,0.92,message_0271
+msg_028,mute,promotion,Promotional advertisement from business account.,0.92,message_0034
+msg_012,mute,forward,Muted forwarded advice/information spam.,0.92,message_0247
+msg_064,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,message_0087
+msg_103,notify,personal,Direct personal message from active contact.,0.93,message_0390
+msg_031,notify,urgent,Notified coworker discussion.,0.93,message_0249
+msg_057,notify,personal,Notified because the user was directly @-mentioned.,0.93,message_0170
+msg_087,mute,event,Muted message in user-muted group.,0.92,message_0204
+msg_067,notify,urgent,Notified time-sensitive operational notice from society group admin.,0.95,message_0271
+msg_039,notify,urgent,Notified because the user was directly @-mentioned.,0.93,message_0255
+msg_082,notify,urgent,Notified coworker discussion.,0.93,message_0218
+msg_066,mute,promotion,Promotional advertisement from business account.,0.92,message_0188
+msg_049,digest,business_update,Status or transactional update from business account.,0.91,message_0153
+msg_015,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,message_0214
+msg_051,mute,promotion,Promotional advertisement from business account.,0.92,message_0257
+msg_097,digest,personal,Direct personal message from active contact.,0.93,message_0054
+msg_089,notify,urgent,Direct personal message with time-critical request.,0.94,none
+msg_053,mute,forward,Muted forwarded advice/information spam.,0.92,message_0411
+msg_059,digest,promotion,Marketplace promotional message.,0.92,message_0214
+msg_024,mute,promotion,Promotional advertisement from business account.,0.92,message_0257
+msg_072,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,message_0214
+msg_036,mute,scam,Muted due to official domain mismatch (razorpayx.com vs razorpayx-payouts.com) on payment/credential request.,1.0,message_0283
+msg_076,mute,scam,Muted due to official domain mismatch (talabat.com vs talabat-refund.com) on payment/credential request.,1.0,message_0208
+msg_055,digest,personal,Personal family communication sent to digest (non-urgent).,0.93,message_0166
+msg_102,notify,urgent,Direct personal message with time-critical request.,0.94,message_0371;message_0230
+msg_080,notify,event,Announcement from society group admin.,0.92,message_0271
+msg_093,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,none
+msg_034,mute,greeting,Muted forwarded greeting message with high forward count.,0.92,message_0078
+msg_035,digest,business_update,Status or transactional update from business account.,0.91,message_0281
+msg_101,digest,personal,Downgraded to digest because message arrived during user's DND window (22:30-07:30).,0.92,message_0370
+msg_041,mute,scam,Muted due to official domain mismatch (polaris.school vs weurl.co) on payment/credential request.,1.0,message_0138
+msg_011,mute,greeting,Muted forwarded greeting message with high forward count.,0.92,message_0078
+msg_110,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,message_0381
+msg_095,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,message_0087
+msg_074,mute,scam,Muted high-risk security ask or unsolicited financial request.,0.95,message_0204
+msg_073,mute,forward,Muted forwarded advice/information spam.,0.92,message_0087
+msg_054,digest,personal,Personal discussion in social group.,0.91,message_0164
+msg_068,digest,personal,Personal discussion in social group.,0.91,message_0192
+msg_100,notify,urgent,Direct personal message with time-critical request.,0.94,message_0055
+msg_062,mute,forward,Muted forwarded advice/information spam.,0.92,message_0271
+msg_096,notify,urgent,Direct personal message with time-critical request.,0.94,none
+msg_043,mute,forward,Muted forwarded advice/information spam.,0.92,message_0271
+msg_077,digest,event,Downgraded to digest because message arrived during user's DND window (21:00-06:00).,0.92,message_0255
+msg_081,notify,event,Announcement from school_group group admin.,0.92,message_0217
+msg_025,notify,business_update,Transactional status update for active order/delivery.,0.94,message_0239;message_0004
+msg_084,mute,promotion,Promotional advertisement from business account.,0.92,message_0220
+msg_022,digest,event,Routine update in society group.,0.91,message_0152
